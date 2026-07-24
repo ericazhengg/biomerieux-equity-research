@@ -16,34 +16,32 @@ Can growth in molecular diagnostics, microbiology and recurring reagent and cons
 - Five-year financial forecast
 - Discounted cash flow valuation model
 - Comparable-company analysis
-- European diagnostics industry report
 - Stock pitch deck
 
 ## Project structure
 
 ```text
-biomerieux-equity-research/
-├── README.md
-├── model/
-├── comparable-analysis/
-├── stock-pitch/
-├── industry-report/
-├── data/
-├── images/
-└── sources/
+| Deliverable | Status |
+|---|---|
+| Company overview | Completed |
+| Historical financial analysis | Completed |
+| Five-year forecast | Completed |
+| DCF valuation | In progress |
+| Comparable-company analysis | Planned |
+| Investment thesis | Planned |
 ```
 
 Folders will be added as each stage is completed.
 
 ## Current stage
 
-**Stage 1 — Company research and source collection**
+**Stage 4 — DCF Valutaion**
 
 Current tasks:
 
-- Collect official company filings and investor presentations
-- Record every document in the source log
-- Write a one-page explanation of what bioMérieux sells, who buys its products and why customers make recurring purchases
+- Calculate WACC and link the forecast unlevered free cash flows.
+- Calculate terminal value, enterprise value, equity value and implied share price.
+- Build sensitivity tables, bull/base/bear scenarios and final valuation checks.
 
 ## Key areas to analyse
 
