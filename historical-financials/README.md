@@ -12,3 +12,5 @@ This workbook contains bioMérieux's audited historical financial information fo
 - Source references and reconciliation checks
 
 Historical source data is shown in blue, formulas in black, and cross-sheet links in green.
+
+- [View biomerieux-historical-financials.xlsx](https://github.com/user-attachments/files/30340352/biomerieux-historical-financials.xlsx)
