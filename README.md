@@ -20,7 +20,7 @@ Can growth in molecular diagnostics, microbiology and recurring reagent and cons
 
 ## Project structure
 
-```text
+
 | Deliverable | Status |
 |---|---|
 | Company overview | Completed |
@@ -29,7 +29,7 @@ Can growth in molecular diagnostics, microbiology and recurring reagent and cons
 | DCF valuation | In progress |
 | Comparable-company analysis | Planned |
 | Investment thesis | Planned |
-```
+
 
 Folders will be added as each stage is completed.
 
