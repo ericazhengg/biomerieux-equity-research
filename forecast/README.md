@@ -20,4 +20,4 @@ This workbook contains a five-year financial forecast for bioMérieux covering F
 
 The model is based on public information available as of 24 July 2026 and should be updated following subsequent company results.
 
-[Download the five-year forecast](biomerieux-five-year-forecast.xlsx)
+- [View the five-year forecast](biomerieux-five-year-forecast.xlsx)
