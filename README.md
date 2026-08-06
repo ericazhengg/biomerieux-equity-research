@@ -61,3 +61,5 @@ Only public information will be used. Company annual reports and regulated filin
 ## Disclaimer
 
 This project is for educational purposes only and does not constitute investment advice. All conclusions are the author's independent analysis based on publicly available information.
+
+© 2026 Erica Zheng. Created for educational and portfolio purposes. Reuse or redistribution requires permission.
