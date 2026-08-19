@@ -26,8 +26,8 @@ Can growth in molecular diagnostics, microbiology and recurring reagent and cons
 | Company overview | Completed |
 | Historical financial analysis | Completed |
 | Five-year forecast | Completed |
-| DCF valuation | In progress |
-| Comparable-company analysis | Planned |
+| DCF valuation | Completed |
+| Comparable-company analysis | In Progress |
 | Investment thesis | Planned |
 
 
@@ -35,24 +35,28 @@ Folders will be added as each stage is completed.
 
 ## Current stage
 
-**Stage 4 — DCF Valutaion**
+**Stage 5 — Comparable Company Analysis**
 
 Current tasks:
 
-- Calculate WACC and link the forecast unlevered free cash flows.
-- Calculate terminal value, enterprise value, equity value and implied share price.
-- Build sensitivity tables, bull/base/bear scenarios and final valuation checks.
+- Select 5–8 relevant diagnostics and life-sciences peers and justify why each is comparable to bioMérieux.
+- Compare valuation multiples including EV/Revenue, EV/EBITDA, P/E and growth/margin profiles.
+- Use peer median multiples to estimate bioMérieux’s implied enterprise value, equity value and share price, then compare this with the DCF.
 
 ## Key areas to analyse
 
-- Clinical microbiology
-- Molecular diagnostics
-- Immunoassays
-- Industrial applications
-- Antimicrobial resistance
-- Installed instruments and recurring consumable revenue
-- Research and development
-- Geographic and foreign-exchange exposure
+- Revenue growth
+- EBITDA and CEBIT margins
+- Recurring consumables/reagent revenue
+- R&D intensity
+- Geographic exposure
+- Net debt / net cash position
+- EV/Revenue
+- EV/EBITDA
+- P/E
+- Implied valuation range
+- Premium or discount versus peers
+- Differences in business mix and growth quality
 
 ## Data policy
 
