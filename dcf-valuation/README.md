@@ -20,6 +20,5 @@ This section contains a discounted cash flow valuation of bioMérieux based on t
 - Valuation date: 19 August 2026
 
 [View the DCF valuation model](biomerieux-dcf-valuation.xlsx)
-[View the summary of DCF valuation](biomerieux-dcf-summary.pdf)
 
 This analysis was prepared for educational and portfolio purposes only and does not constitute investment advice.
